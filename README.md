@@ -1,4 +1,3 @@
- <hr attribute="value">
 
 ## Misc
 
