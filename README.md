@@ -9,6 +9,11 @@
 </body>
 
 <body>
+<a target="_blank" href="https://www.credly.com/badges/b3366576-aeb9-4300-94a5-5b83f97161d8/public_url">
+  <img width="105" height="105" alt="" src="https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
+</a>
+
+<body>
 
 <a target="_blank" href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000406066/crbe2hf57m">
   <img width="105" height="105" alt="" src="https://images.credly.com/size/680x680/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/LPI_LPIC1.png">
